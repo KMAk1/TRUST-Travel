@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kmak1.github.io/TRUST-Travel/sitemap.xml
