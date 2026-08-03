@@ -1,0 +1,128 @@
+[
+    {
+       "img":"imgs/Mövenpick.webp",
+       "name":"منتجع موڤنبيك السخنة",
+       "rating":8.1,
+       "reviews":1506,
+       "alt":"Ain Sokhna Hotel",
+       "stars":5,
+       "description":"يتميز هذا المنتجع المصنف 5 نجوم بمسبح خارجي كبير وتراس مزود بكراسي استلقاء للتشمس ويوفر غرف مكيفة تطل على الشاطئ الخاص وخليج السويس، ويوفر مركزاً للياقة البدنية مجهز تجهيزاً جيداً مع ساونا.",
+       "whatsapp":"https://wa.me/2001116678818"
+        
+    },
+    {
+       "img":"imgs/JAZLittleAin.webp",
+       "name":"Al Masa Hotel El Sokhna",
+       "rating":8.7,
+       "reviews":1492,
+       "alt":"Ain Sokhna Hotel",
+       "stars":5,
+       "description":"يتميز هذا المنتجع البوتيكي الفاخر بإمكانية الوصول المباشر إلى شاطئ العين السخنة، ويوفر مكان إقامة عصري يشمل وجبة الإفطار.",
+       "whatsapp":"https://wa.me/2001116678818"
+        
+    },
+    {
+       "img":"imgs/AlMasa.webp",
+       "name":"JAZ Little Venice Golf Resort",
+       "rating":8.7,
+       "reviews":1992,
+       "alt":"Ain Sokhna Hotel",
+       "stars":5,
+       "description":"يقع مكان إقامة 'Al Masa Hotel El Sokhna' في العين السخنة. توفر كل وحدة في هذا الفندق المصنف 5 نجوم إطلالة على البحر ويمكن للضيوف الاستفادة من حديقة ومطعم.",
+       "whatsapp":"https://wa.me/2001116678818"
+        
+    },
+    {
+       "img":"imgs/PortoSokhna.webp",
+       "name":"Porto Sokhna Pyramids sea view",
+       "rating":7.7,
+       "reviews":892,
+       "alt":"Ain Sokhna Hotel",
+       "stars":5,
+       "description":"يوفر مكان إقامة 'Porto Sokhna Pyramids sea view' إطلالة على المدينة وحديقة ومنطقة شاطئ خاص وتراس، ويبعد مسافة 600 م تقريباً عن شاطئ بورتو السخنة. يمكن ترتيب مواقف خاصة للسيارات مقابل تكلفة إضافية.",
+       "whatsapp":"https://wa.me/2001116678818"
+        
+    },
+    {
+       "img":"imgs/coralseaAin.webp",
+       "name":"كورال سي بيتش & أكوا بارك",
+       "rating":8.9,
+       "reviews":1892,
+       "alt":"Ain Sokhna Hotel",
+       "stars":4,
+       "description":"يقع Coral Sea Beach على شاطئ خاص في العين السخنة، ويوفر إطلالات رائعة على السخنة، كما يضم مكان الإقامة غرفاً مريحة ومكيّفة ومسبحاً داخلياً مدفأ ومسبحاً خارجياً كبيراً ومنتزه مائي.",
+       "whatsapp":"https://wa.me/2001116678818"
+        
+    },
+
+
+    {
+       "img":"imgs/CancunAin.webp",
+       "name":"منتجع وفيلات كانكون العين السخنة",
+       "rating":9.1,
+       "reviews":4015,
+       "alt":"Ain Sokhna Hotel",
+       "stars":4,
+       "description":"يقع هذا المنتجع البوتيكي الفاخر مباشرة على البحر الأحمر الساحر، حيث يمكنك هنا الاستمتاع بالقبقاب الصيفي والطقس الدافئ وأشعة الشمس والإطلالات البانورامية على البحر على مدار السنة.",
+       "whatsapp":"https://wa.me/2001116678818"
+        
+    },
+   {
+       "img":"imgs/veneciaAin.webp",
+       "name":"شاليه عائلي بإطلالة على البحر Venecia resort العين السخنة",
+       "rating":8.7,
+       "reviews":401,
+       "alt":"Ain Sokhna Hotel",
+       "stars":4,
+       "description":"يقع مكان إقامة شاليه عائلي بإطلالة على البحر Venecia resort العين السخنة في العين السخنة، ويتوفر للضيوف مسبح خارجي طوال العام ومنطقة شاطئ خاص ومطعم. مكان الإقامة مكيف ويوفر حوض استحمام ساخن.",
+       "whatsapp":"https://wa.me/2001116678818"
+        
+    },
+
+
+    {
+       "img":"imgs/marinaAin.webp",
+       "name":"Marina Wadi Degla Hotel",
+       "rating":8.1,
+       "reviews":701,
+       "alt":"Ain Sokhna Hotel",
+       "stars":3,
+       "description":"يقع مكان إقامة 'Marina Wadi Degla Hotel' في العين السخنة، ويتميز بمسبح خارجي وحديقة ومنطقة شاطئ خاص وتراس. يوفر هذا الفندق المصنف 3 نجوم واي فاي مجاني، وخدمة الغرف، ومكتب استقبال يعمل على مدار الساعة....",
+       "whatsapp":"https://wa.me/2001116678818"
+    },
+
+    
+    {
+       "img":"imgs/FanarAIn.webp",
+       "name":"Fanar Hotel",
+       "rating":7.6,
+       "reviews":391,
+       "alt":"Ain Sokhna Hotel",
+       "stars":3,
+       "description":"يقع مكان إقامة 'Fanar Hotel' في العين السخنة، ويتميز بمسبح خارجي وحديقة ومنطقة شاطئ خاص وصالة مشتركة.",
+       "whatsapp":"https://wa.me/2001116678818"
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+]

@@ -1,0 +1,111 @@
+[
+    {
+       "img":"imgs/InterContinentalCairo.webp",
+       "name":"فندق إنتركونتيننتال سيتى ستارز القاهرة",
+       "rating":8.9,
+       "reviews":2185,
+       "alt":"Cairo Hotel",
+       "stars":5,
+       "description":"يقع هذا الفندق الفاخر من فئة الخمس نجوم بجوار مركز سيتي ستارز للتسوق، ويضم مسبحاً خارجياً كبيراً و10 مطاعم متنوعة.",
+       "whatsapp":"https://wa.me/2001064241015"
+
+    },
+      {
+        "img":"imgs/FairmontCario.webp",
+        "name":"فيرمونت نايل سيتي",
+        "rating":8.5,
+        "reviews":4900,
+        "alt":"Cairo Hotel",
+        "stars":5,
+        "description":"يقع هذا الفندق الـ 5 نجوم في أبراج نايل سيتي بجانب نهر النيل، ويضم سطح مسبح على السطح مع إطلالة مذهلة عبر مدينة القاهرة إلى الأهرامات. ويوفر 7 أماكن لتناول الطعام والمشروبات.",
+        "whatsapp":"https://wa.me/2001064241015"
+
+    },
+    {
+        "img":"imgs/kazinoCario.webp",
+        "name":"فندق وكازينو شيراتون القاهرة",
+        "rating":9,
+        "reviews":2932,
+        "alt":"Cairo Hotel",
+        "stars":5,
+        "description":"يقع فندق وكازينو شيراتون كايرو على بعد 600 متر فقط من دار الأوبرا، ويوفر غرف مع شرفات خاصة تطل على ضفاف نهر النيل، وتتضمن المرافق كازينو ضمن الفندق ومسبح في الهواء الطلق، و تتوفر خدمة الغرف على مدار...",
+        "whatsapp":"https://wa.me/2001064241015"
+    },
+
+    {
+        "img":"imgs/FLowerCario.webp",
+        "name":"Flower Pyramids Inn",
+        "rating":8.8,
+        "reviews":534,
+        "alt":"Cairo Hotel",
+        "stars":5,
+        "description":"يتمتع مكان إقامة Flower Pyramids Inn بموقع جيد في حي الجيزة في القاهرة حيث يبعد مسافة 1.5 كم عن أبو الهول، و2.5 كم عن أهرامات الجيزة، و5.2 كم عن The Grand Egyptian Museum.",
+        "whatsapp":"https://wa.me/2001064241015"
+    },
+
+
+    {
+       "img":"imgs/kemetcairo.webp",
+       "name":"Kemet Pyramids View Hotel",
+       "rating":8.6,
+       "reviews":1185,
+       "alt":"Cairo Hotel",
+       "stars":4,
+       "description":"يقع مكان إقامة 'Kemet Pyramids View Hotel' في القاهرة، ضمن 1.2 كم من أبو الهول، ويقدم غرفاً خالية من مسببات الحساسية، وخدمات كونسيرج، وصالة مشتركة، وواي فاي مجاني في جميع أنحاء مكان الإقامة، وبار.",
+       "whatsapp":"https://wa.me/2001064241015"
+    },
+    {
+       "img":"imgs/NovotelCario.webp",
+       "name":"Novotel Cairo El Borg",
+       "rating":8.4,
+       "reviews":2485,
+       "alt":"Cairo Hotel",
+       "stars":4,
+       "description":"يوفر Novotel Cairo El Borg موقعاً متميزاً في وسط مدينة القاهرة، ويبعد مسافة قصيرة سيراً على الاقدام عن برج القاهرة و 200 متر فقط عن دار أوبرا القاهرة. كما تطل الغرف على نهر النيل أو مدينة القاهرة.",
+       "whatsapp":"https://wa.me/2001064241015"
+    },
+     {
+        "img":"imgs/EcoCario.webp",
+        "name":"Eco green pyramids hotel",
+        "rating":8.4,
+        "reviews":252,
+        "alt":"Cairo Hotel",
+        "stars":4,
+        "description":"يقع مكان إقامة Eco green pyramids hotel في القاهرة، ويتميز بحديقة وصالة مشتركة وتراس وبار.",
+        "whatsapp":"https://wa.me/2001064241015"
+    },
+     {
+        "img":"imgs/SteigenbergeCario.webp",
+        "name":"فندق ستيجنبرجر التحرير القاهرة",
+        "rating":9.3,
+        "reviews":3706,
+        "alt":"Cairo Hotel",
+        "stars":4,
+        "description":"يتمتع 'فندق ستيجنبرجر التحرير' من بين فنادق القاهرة بموقع رائع في ميدان التحرير، حيث يقع على بُعد دقائق من بازار خان الخليلي وبالقرب من المعالم السياحية الرئيسية في مصر، كما تبلغ مساحته الإجمالية...",
+        "whatsapp":"https://wa.me/2001064241015"
+    },    
+    {
+       "img":"imgs/TownCario.webp",
+       "name":"Town Hotel Cairo",
+       "rating":7.9,
+       "reviews":905,
+       "alt":"Cairo Hotel",
+       "stars":3,
+       "description":"يقع مكان إقامة Town Hotel Cairo في القاهرة، ضمن 1 كم من المتحف المصري، ويقدم غرفاً مخصصة لغير المدخنين، وخدمات كونسيرج، وصالة مشتركة، وواي فاي مجاني في جميع أنحاء مكان الإقامة، ومطعم.",
+       "whatsapp":"https://wa.me/2001064241015"
+    },
+    {
+        "img":"imgs/comfortCario.webp",
+        "name":"Hotel Comfort Giza",
+        "rating":8.9,
+        "reviews":602,
+        "alt":"Cairo Hotel",
+        "stars":3,
+        "description":"قع مكان إقامة Hotel Comfort Giza، المصنف ب3 نجوم، على بعد 2.7 كم من أهرامات الجيزة في القاهرة، وهو يتميز بتراس.",
+        "whatsapp":"https://wa.me/2001064241015"
+    }
+
+
+
+
+]

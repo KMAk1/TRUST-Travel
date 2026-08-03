@@ -1,0 +1,129 @@
+[
+    {
+       "img":"imgs/sharmImg1.webp",
+       "name":"اكسبرينس سي برييز",
+       "rating":9.1,
+       "reviews":4385,
+       "alt":"sharm El Sheikh Beach",
+       "stars":5,
+       "description":" يقع هذا المنتجع المصنف 5 نجوم على طول شاطئه الخاص في شرم الشيخ ويتميز بـ 9 مسابح ونادي صحي ومجموعة متنوعة من المطاعم والبارات في الموقع ويوفر إمكانية الدخول إلى شاطئ خاص ذو رمال ذهبية،كما يوفر إطلالات...",
+       "whatsapp":"https://wa.me/2001064241015"
+    },
+    {
+
+       "img":"imgs/NovoTel.webp",
+       "name":"فندق نوفوتيل شرم الشيخ",
+       "rating":9.2,
+       "reviews":3625,
+       "stars":5,
+       "alt":"sharm El Sheikh Beach",
+       "description":"يقع هذا الفندق في خليج نعمة بشرم الشيخ، كما يضم هذا الفندق شاطئاً خاصاً و5 مسابح، ويحتوي على غرف مكيفة مجهزة بتلفزيون مع قنوات فضائية.",
+       "whatsapp":"https://wa.me/2001064241015"
+    },
+    {
+        "img":"imgs/sharmdreams.webp",
+        "name":"منتجع دريمز بيتش، شرم الشيخ",
+        "rating":8.9,
+        "reviews":2755,
+        "stars":5,
+        "alt":"sharm El Sheikh Beach",
+        "description":" يقع هذا المنتجع ذو الـ 5 نجوم على شاطئ خاص به في شرم الشيخ. ويوفر مسبحاً في الهواء الطلق مع مزلجة مائية وغرف ضيوف مشرقة مع شرفة مطلة على التراس.",
+        "whatsapp":"https://wa.me/2001064241015"
+    },
+    {
+        "img":"imgs/jaz.webp",
+        "name":"JAZ Sharm Dreams",
+        "rating":9.3,
+        "reviews":4865,
+        "stars":5,
+        "alt":"sharm El Sheikh Beach",
+        "description":"يقع JAZ Sharm Dreams في شرم الشيخ، وعلى بُعد 700 متر من شاطئ خليج نعمة، وهو مكان إقامة يضم مسبحاً خارجياً ومواقف خاصة للسيارات مجاناً ومركزاً للياقة البدنية وحديقة، كما يوفر مكان الإقامة هذا نادياً...",
+        "whatsapp":"https://wa.me/2001064241015"
+    },
+    {
+        "img":"imgs/dive.webp",
+        "name":"دايف ان ريزورت",
+        "rating":8.8,
+        "reviews":3265,
+        "alt":"sharm El Sheikh Beach",
+        "stars":4,
+        "description":"محاط بالحدائق الاستوائية، هذا المنتجع ذو الـ 4 نجوم يتميز بمركز للغوص مع مدربين محترفين على شاطئ البحر الأحمر. يقدم يقدم حافلة مجانية لشاطئ أم السيد.",
+        "whatsapp":"https://wa.me/2001064241015"
+    },
+    {
+        "img":"imgs/sierra.webp",
+        "name":"سييرا شرم الشيخ",
+        "rating":8.7,
+        "reviews":3765,
+        "alt":"sharm El Sheikh Beach",
+        "stars":4,
+        "description":"يقع هذا المنتجع الشامل ذو الأربع نجوم في وسط ساحة سوهو، ويوفر الوصول إلى رمال شاطئ وايت نايت الخاصة",
+        "whatsapp":"https://wa.me/2001064241015"
+    },
+
+    {
+        "img":"imgs/grandsharm.webp",
+        "name":"منتجع جراند اويزيس",
+        "rating":9.0,
+        "reviews":3125,
+        "alt":"sharm El Sheikh Beach",
+        "stars":4,
+        "description":"موقع شاطئي مميز: يقدم فندق جراند أواسيز في شرم الشيخ منطقة شاطئ خاصة وإمكانية الوصول المباشر للشاطئ. يتمتع النزلاء بإطلالات رائعة على البحر والوصول المباشر للشاطئ.",
+        "whatsapp":"https://wa.me/2001064241015"
+    },
+
+    {
+        "img":"imgs/charmillionSharm.webp",
+        "name":"Charmillion Sea Life Resort",
+        "rating":8.5,
+        "reviews":2480,
+        "alt":"sharm El Sheikh Beach",
+        "stars":4,
+        "description":"يقع منتجع Charmillion Sea Life ذو الـ 4 نجوم على شاطئ خليج نبق، ويوفر غرفاً مشرقة مع شرفة مفروشة. ويحتوي على مركز للغوص ومسبح في الهواء الطلق يحتوي على بار وتحيط به كراسي بوسائد.",
+        "whatsapp":"https://wa.me/2001064241015"
+    },
+
+    {
+        "img":"imgs/coral.webp",
+        "name":"كورال هيلز ريزورت",
+        "rating":8.2,
+        "reviews":1878,
+        "alt":"sharm El Sheikh Beach",
+        "stars":3,
+        "description":"يقع هذا الفندق في أعالي منحدرات أم السيد، ويضم حوض سباحة كبيراً في الهواء الطلق وغرفاً فسيحة مع شرفات خاصة. يضم Coral Hills Resort مركزاً للغوص على بعد 20 دقيقة بالسيارة من خليج نعمة الحيوي.",
+        "whatsapp":"https://wa.me/2001064241015"
+    },
+
+    {
+        "img":"imgs/Turquoise.webp",
+        "name":"فندق تركواز بيتش",
+        "rating":7.9,
+        "reviews":2078,
+        "alt":"sharm El Sheikh Beach",
+        "stars":3,
+        "description":" يقع فندق تركواز بيتش على خليج شرم مايا الذي يشتهر بمواقع الغوص على شاطئ البحر الأحمر، كما يوفر شاطئاً خاصاً نقياً ومسبحاً داخلياً وخارجياً مع تراس مزود بكراسي استلقاء للتشمس.",
+        "whatsapp":"https://wa.me/2001064241015"
+    },
+
+    {
+        "img":"imgs/falconsharm.webp",
+        "name":"فندق فالكون نعمة ستار",
+        "rating":8.3,
+        "reviews":3208,
+        "alt":"sharm El Sheikh Beach",
+        "stars":3,
+        "description":"يضم فندق Falcon Naama Star مسبحاً في الهواء الطلق وحوض استحمام ساخن ومطعماً يقدم المأكولات الإقليمية المُعدَّة بالمكونات المحلية الطازجة. ويبعد أقل من 5 دقائق سيرا على الأقدام من شاطئ فيفا.",
+        "whatsapp":"https://wa.me/2001064241015"
+    },
+
+     {
+        "img":"imgs/ElKhansharm.webp",
+        "name":"El Khan Sharm Hotel",
+        "rating":8.1,
+        "reviews":1582,
+        "alt":"sharm El Sheikh Beach",
+        "stars":3,
+        "description":"يقع مكان إقامة El Khan Sharm Hotel في شرم الشيخ، على بعد 1.4 كم من شاطئ ريف (Reef Beach)، ويتميز بمسبح خارجي ومواقف خاصة للسيارات مجاناً وحديقة وتراس.",
+        "whatsapp":"https://wa.me/2001064241015"
+    }
+]

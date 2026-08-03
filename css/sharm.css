@@ -1,0 +1,213 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Tahoma;
+    text-decoration: none;
+    
+}
+
+body{
+    background:#f5f5f5;
+}
+
+.hotels{
+    width:90%;
+    margin: 60px auto;
+}
+
+.section-title{
+    text-align:center;
+    padding:70px 20px 50px;
+}
+
+.section-title .subtitle{
+    display:inline-block;
+    color:#009688;
+    font-size:18px;
+    font-weight:600;
+    margin-bottom:12px;
+}
+
+.section-title h1{
+    font-size:48px;
+    color:#1f2937;
+    font-weight:800;
+    margin-bottom:18px;
+    position:relative;
+}
+
+.section-title h1::after{
+    content:"";
+    position:absolute;
+    left:50%;
+    transform:translateX(-50%);
+    bottom:-12px;
+    width:170px;
+    height:5px;
+    background:linear-gradient(to right,#FFD700,#F59E0B);
+    border-radius:20px;
+}
+
+.section-title p{
+    margin:35px auto 0;
+    max-width:700px;
+    font-size:18px;
+    line-height:1.8;
+    color:#666;
+}
+
+.section-title h1{
+    animation:fadeUp 1s ease;
+}
+
+@keyframes fadeUp{
+
+    from{
+        opacity:0;
+        transform:translateY(40px);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+
+}
+
+.cards{
+
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+    gap:25px;
+
+}
+
+.card{
+
+    background:#fff;
+    border-radius:12px;
+    overflow:hidden;
+    box-shadow:0 5px 20px rgba(0,0,0,.12);
+    transition:.4s;
+
+}
+
+.card:hover{
+
+    transform:translateY(-8px);
+    box-shadow:0 12px 30px rgba(0,0,0,.18);
+
+}
+
+.card img{
+
+    width:100%;
+    height:210px;
+    object-fit:cover;
+
+}
+
+.hotel-rating{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin: 12px 0;
+}
+
+.stars i{
+
+    color:#ccc;
+    font-size:18px;
+
+}
+
+.stars .active{
+    color:#f7b500;
+}
+
+.rating-number{
+    background: rgb(71, 71, 155);
+    color:white;
+    font-weight: bold;
+    padding: 3px 8px;
+    border-radius: 6px;
+    font-size: 14px;
+}
+.rating-number p{
+    color: white;
+}
+
+.reviews{
+    color: #777;
+    font-size: 14px;
+}
+.card h3{
+
+    text-align:center;
+    margin:15px 10px 5px;
+
+}
+
+.location{
+
+    text-align:center;
+    color:#666;
+    margin-bottom:20px;
+    font-size:15px;
+
+}
+
+.location i{
+
+    color:#0d47a1;
+
+}
+
+.price-title{
+
+    text-align:center;
+    font-size:24px;
+    font-weight:bold;
+
+}
+
+.card h1{
+
+    color:#22b322;
+    text-align:center;
+    font-size:50px;
+
+}
+
+.card span{
+
+    display:block;
+    text-align:center;
+    color:#777;
+    margin-top:5px;
+
+}
+
+button{
+
+    width:90%;
+    display:block;
+    margin:20px auto;
+    height:50px;
+    border:none;
+    background:#2eb82e;
+    color:#fff;
+    border-radius:10px;
+    font-size:24px;
+    cursor:pointer;
+    transition:.3s;
+
+}
+
+button:hover{
+
+    background:#1d9b1d;
+
+}

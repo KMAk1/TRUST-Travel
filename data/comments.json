@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "محمد احمد علي",
+    "country": "مصر",
+    "flag":"eg",
+    "score": 9.6,
+    "date": "2026/7/25",
+    "comment": "اشكركم جدا علي هذه الخدمة و الاقامه الرائع في شرم الشيخ في فندق JAZ Sharm Dreams و كل تفاصيل الرحله من بدايه لي نهايه جميله جدا و شكرا لي ادراه علي هذا التنظيم الرائع",
+    "avatar": "imgs/avtar.png"
+  },
+  {
+    "id": 2,
+    "name": "أحمد العتيبي",
+    "country": "السعودية",
+    "flag":"sa",
+    "score": 9.2,
+    "date": "2026/6/5",
+    "comment": "من أفضل الشركات اللي تعاملت معها بجدة. حجزت رحلتين لشرم والقاهرة، والتنظيم والمواعيد كانت دقيقة جداً. الخدمة 10 على 10!",
+    "avatar": "imgs/avatar2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hamada",
+    "country": "مصر",
+    "flag":"eg",
+    "score": 9.8,
+    "date": "2026/7/25",
+    "comment":"ادراة فندق فالكون نعمة ستار ذوق جدا وخدمه ممتازة والغرف نظيفه جدا و دي مش اول مره علطول تنظيم رائع",
+    "avatar": "imgs/photoH.png"
+  },
+  {
+    "id": 4,
+    "name": "Nasma Mamdouh",
+    "country": "الكويت",
+    "flag":"kw",
+    "score": 9,
+    "date": "2026/7/24",
+    "comment": "تجربة اقامة فوق الممتازة فندق نايل سيتي هادي و مرتب والاداره والتنظيم وكل شئ رائع جدا شكرا لكم علي هذا المستوي",
+  
+    "avatar": "imgs/ava-n.png"
+  },
+  {
+    "id": 5,
+    "name": "Basem Ali",
+    "country":"قطر",
+    "flag":"qa",
+    "score": 9.5,
+    "date": "2026/7/17",
+    "comment": " فندق جولدن بيتش ريزورت من اجمل الفنادق اللي بقيم فيها في مصر دي سنه تالته و التنظيم والخدمه علي اعلي مستوي شكرا لي الاداره علي هذا التنظيم",
+    "avatar": "imgs/avatar3.png"
+  },
+  {
+    "id": 6,
+    "name": "Mohamed Ali",
+    "country": "سوريا",
+    "flag":"sy",
+    "score": 9.7,
+    "date": "2026/7/29",
+    "comment": "يسلم إيديكن على هالترتيب والرقي بالتعامل! رحلة شرم الشيخ كانت بتجنن والخدمة فوق الممتازة، أمانةً شغل احترافي وبيبيّض الوش. أطيب تحية لكادر العمل وراجعين نكررها أكيد!",
+    "avatar": "imgs/avtar.png"
+  },
+  {
+    "id": 7,
+    "name": "سعيد البلوشي",
+    "country": "عمان",
+    "flag":"om",
+    "score": 9.4,
+    "date": "2026/8/1",
+    "comment": "فندق كابتن ريزورت مكان هادي وخدمة ممتازة للراحة والاستجمام. التعامل كان قمة في الأخلاق والوضوح.",
+    "helpful": 15,
+    "avatar": "imgs/avtar.png"
+  },
+  {
+    "id": 8,
+    "name": "Fahd Mohammed",
+    "country": "kuwait",
+    "flag":"kw",
+    "score": 9.1,
+    "date": "2026/8/2",
+    "comment":"ما قصرتوا والله، من أروع السفريات للغردقة. الفندق روعة والتنظيم عالي العال شكرا لي الادراه المحترمه.",
+    "avatar": "imgs/ava-f.png"
+  },
+  {
+    "id": 9,
+    "name": "Turki Mansour",
+    "country": "السعودية",
+    "flag":"sa",
+    "score": 9.9,
+    "date": "2026/7/28",
+    "comment": "إقامة جميلة جدا في captain's Inn اكتر ما اعجبني هو الاطلالة المباشرة علي مارينا خصوصا في الصباح و عند الغروب حيث الاجواء هادئة و مريحة للغاية.",
+    "avatar": "imgs/sadiaimgcomment.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Fatima Al Harbi",
+    "country": "مصر",
+    "flag":"eg",
+    "score": 9.3,
+    "date": "2026/7/22",
+    "comment": "The staff were welcoming and the whole trip was well planned. We felt comfortable throughout our stay.",
+    "helpful": 14,
+    "avatar": "imgs/avtar.png"
+  }
+]

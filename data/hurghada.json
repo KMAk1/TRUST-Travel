@@ -1,0 +1,105 @@
+[
+    {
+       "img":"imgs/BellagioHurg.webp",
+       "name":"Bellagio Beach Resort & Spa",
+       "rating":9.1,
+       "reviews":4385,
+       "stars":5,
+       "alt":"Hurghada Beach",
+       "description":"يوفر هذا المنتجع شاطئاً خاصاً ومدرسة لركوب الأمواج شراعياً وغرفاً مكيّفة، كما تشمل منطقة المسبح ذات المناظر الطبيعية الخاصة بمكان الإقامة مسبحاً للأطفال ومسبحاً مُدفأً مع منزلقات مائية.",
+       "whatsapp":"https://wa.me/2001116678818"
+    },
+    {
+       "img":"imgs/marriottHurg.webp",
+       "name":"Hurghada Marriott Beach Resort",
+       "rating":8.8,
+       "reviews":3205,
+       "alt":"Hurghada Beach",
+       "stars":5,
+       "description":"يشتمل منتجع 'Marriott' على مسبح واسع ونادي صحي وجزيرة خاصة به مع شاطئ خاص، وتوفر جميع الغرف إطلالات على البحر الأحمر، ويبعُد المنتجع مسافة 10 دقائق بالسيارة عن مارينا الغردقة.",
+       "whatsapp":"https://wa.me/2001116678818"
+    },
+    {
+       "img":"imgs/Pickalbatros.webp",
+       "name":"منتجع بيكالباتروس وايت بيتش - الغردقة",
+       "rating":8.6,
+       "reviews":2575,
+       "alt":"Hurghada Beach",
+       "stars":5,
+       "description":"قع منتجع Pickalbatros White Beach Resort - Hurghada على الواجهة البحرية في مدينة الغردقة في منطقة البحر الأحمر، وعلى بعد 5 كم فقط من نيو مارينا، ويضم شاطئاً رملياً خاصاً يشمل مسبحاً خارجياً وملعباً...",
+       "whatsapp":"https://wa.me/2001116678818"
+    },
+    {
+       "img":"imgs/wesaba.webp",
+       "name":"فندق هيلتون الغردقة بلازا",
+       "rating":9.3,
+       "reviews":3305,
+       "alt":"Hurghada Beach",
+       "stars":5,
+       "description":"يتميز منتجع هيلتون الغردقة بلازا بإطلالات رائعة على البحر الأحمر من غرف الضيوف وشاطئ رملي خاص مزود بمرافق الرياضيات المائية، كما يضم 12 مطعماً وباراً، حيث يمكن للضيوف الاستمتاع بمجموعة واسعة متنوعة من...",
+       "whatsapp":"https://wa.me/2001116678818"
+    },
+     {
+       "img":"imgs/GoldenHurg.webp",
+       "name":"جولدن بيتش ريزورت", 
+       "rating":8.2,
+       "reviews":2350,
+       "alt":"Hurghada Beach",
+       "stars":4,
+       "description":"يقع منتجع العطلات Golden Beach Resort الشامل كلياً على بعد حوالي 15 كم من شمال غرب مدينة الغردقة، ويوفر شاطئ رملي خاص على طول البحر الأحمر، كما يوفر 7 مطاعم و8 بارات.",
+       "whatsapp":"https://wa.me/2001116678818"
+    },
+    {
+       "img":"imgs/alDorahurg.webp",
+       "name":"Al Dora Boutique Hotel", 
+       "rating":8.8,
+       "reviews":1385,
+       "alt":"Hurghada Beach",
+       "stars":3,
+       "description":"يقع مكان إقامة 'Al Dora Boutique Hotel' في الغردقة، ويتميز بمنطقة شاطئ خاص وصالة مشتركة وتراس وبار.",
+       "whatsapp":"https://wa.me/2001116678818"
+    },
+    {
+       "img":"imgs/giftun.webp",
+       "name":"جفتون أزور ريزورت ", 
+       "rating":8.8,
+       "reviews":1385,
+       "alt":"Hurghada Beach",
+       "stars":3,
+       "description":"يقع جفتون أزور بيتش ريزورت وسط حدائق خضراء مورقة مع أشجار النخيل، ويوفر 7 مطاعم و7 بارات، كما يحتوي على مسابح خارجية وغرف فسيحة مع إطلالات على البحر أو المسبح أو الحديقة.",
+       "whatsapp":"https://wa.me/2001116678818"
+    },
+    {
+       "img":"imgs/pharaohhurg.webp",
+       "name":"Pharaoh Azur Resort", 
+       "rating":8.6,
+       "reviews":1824,
+       "alt":"Hurghada Beach",
+       "stars":4,
+       "description":"يقع جفتون أزور بيتش ريزورت وسط حدائق خضراء مورقة مع أشجار النخيل، ويوفر 7 مطاعم و7 بارات، كما يحتوي على مسابح خارجية وغرف فسيحة مع إطلالات على البحر أو المسبح أو الحديقة.",
+       "whatsapp":"https://wa.me/2001116678818"
+    },
+
+    {
+       "img":"imgs/LaBoutiqueHurg.webp",
+       "name":"La Boutique Residence", 
+       "rating":7.5,
+       "reviews":1155,
+       "alt":"Hurghada Beach",
+       "stars":3,
+       "description":"يقع مكان إقامة La Boutique Residence في الغردقة، ويتميز بحديقة وتراس ومطعم وبار. يوفر هذا الفندق المصنف 3 نجوم خدمة كونسيرج. يوفر الفندق مسبحاً خارجياً، ونادياً ليلياً، وخدمة الغرف.",
+       "whatsapp":"https://wa.me/2001116678818"
+    },
+
+
+    {
+       "img":"imgs/Albatroshurgh.webp",
+       "name":"منتجع بيكالباتروس اكوا بارك، الغردقة ", 
+       "rating":8.9,
+       "reviews":2110,
+       "alt":"Hurghada Beach",
+       "stars":4,
+       "description":"يقع مكان إقامة La Boutique Residence في الغردقة، ويتميز بحديقة وتراس ومطعم وبار. يوفر هذا الفندق المصنف 3 نجوم خدمة كونسيرج. يوفر الفندق مسبحاً خارجياً، ونادياً ليلياً، وخدمة الغرف.",
+       "whatsapp":"https://wa.me/2001116678818"
+    }
+]
